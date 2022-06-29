@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=New+Tegomin&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=New+Tegomin&display=swap");
 
 * {
     padding: 0;
@@ -6,7 +6,7 @@
 }
 
 .body {
-    background: url('../img/bg.jpg');
+    background: url("../image/bg.jpg");
     min-height: 100vh;
     background-size: 100vw 100vh;
     background-repeat: no-repeat;
@@ -21,7 +21,7 @@
     right: 200px;
     font-size: 39px;
     font-weight: bold;
-    font-family: 'New Tegomin', serif;
+    font-family: "New Tegomin", serif;
 }
 
 #hiscoreBox {
@@ -30,7 +30,7 @@
     right: 140px;
     font-size: 39px;
     font-weight: bold;
-    font-family: 'New Tegomin', serif;
+    font-family: "New Tegomin", serif;
 }
 
 #board {
